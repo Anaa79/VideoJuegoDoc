@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"VideJuegoRPG","l":"Enemigo"},{"p":"VideJuegoRPG","l":"Inventario"},{"p":"VideJuegoRPG","l":"Jugador"},{"p":"VideJuegoRPG","l":"Main"}];updateSearchResults();
